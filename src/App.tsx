@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 900, margin: "0 auto", padding: 24, fontFamily: "sans-serif" }}>
-      <h1>ProForm Deal Analyzer</h1>
+      <h1>Property Deal Analyzer</h1>
       <PropertyForm onAdd={(p) => setProperties([...properties, p])} />
 
       <h2>Deals</h2>
