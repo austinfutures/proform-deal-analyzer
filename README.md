@@ -1,5 +1,5 @@
 # ProForm Deal Analyzer
-
+**Live demo:** https://proform-deal-analyzer.vercel.app
 A small real estate deal analyzer built with React and TypeScript. Add a property listing and instantly see its monthly mortgage, cash flow, cap rate, and cash-on-cash return. Compare deals by sorting on any metric.
 
 ## Features
