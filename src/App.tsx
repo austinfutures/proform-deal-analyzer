@@ -4,7 +4,7 @@ import type { SortKey } from "./analyzer";
 import PropertyForm from "./PropertyForm";
 import DealTable from "./DealTable";
 
-const STORAGE_KEY = "proform-properties";
+const STORAGE_KEY = "property-deal-analyzer";
 
 export default function App() {
   const [properties, setProperties] = useState<Property[]>(() => {
